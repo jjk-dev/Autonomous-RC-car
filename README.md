@@ -1,6 +1,8 @@
-# DL_CLASS
+# Embedded
 
-2019.10 ~ 2019.12
+2019.9 ~ 2019.12
 
-Took short Deep Learning Class with LIG workers.
-Every code about this class.
+Did project about Autonomus RC car.
+
+- Arduino
+- Raspberry Pi
