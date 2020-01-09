@@ -11,7 +11,7 @@ rawCapture = PiRGBArray(camera, size=(320, 240))
  
 time.sleep(0.1)
  
-# Save image
+# Save images
 start = 1
 for frame in camera.capture_continuous(rawCapture, format="bgr", se_video_port=True):
   image = frame.array
